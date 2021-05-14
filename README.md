@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+# Simplício Baiano
+
+Apaixonado por tecnologia e inovação, acredito que linhas de código pode gerar valor e melhorar a vida de muitas pessoas. 
+
+##### JS
+##### React
+##### React-Native
+##### Node
+##### Aprendendo Kotlin 
+
+Buscando sempre melhorar minha habilidades e encarar novos desafios. 💪💪💪
+
+🇧🇷 Alagoas, Palmeira dos Índios, Brasil 📌 
+
+### Redes Sociais 🌎
+
+🐦 [Twitter](https://twitter.com/BaianoSimplicio) <br>
+📸 [Instagram](https://www.instagram.com/simpliciobaiano/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/simpl%C3%ADcio-baiano-1825b319a/) <br>
+
 <!--
 **Simplicio-b/Simplicio-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
