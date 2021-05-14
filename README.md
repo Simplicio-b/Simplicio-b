@@ -1,16 +1,19 @@
 # Simplício Baiano
 
-Apaixonado por tecnologia e inovação, acredito que linhas de código pode gerar valor e melhorar a vida de muitas pessoas. 
+Apaixonado por tecnologia e inovação, acredito que linhas de código podem gerar valor, melhorar a vida das pessoas e contribuir muito para o desenvolvimento da sociedade. 
 
 ##### JS
 ##### React
 ##### React-Native
 ##### Node
+##### Firebase
+##### SQL
+
 ##### Aprendendo Kotlin 
 
-Buscando sempre melhorar minha habilidades e encarar novos desafios. 💪💪💪
+Vivendo em um loop onde busco sempre aprimorar minhas habilidades e encarar novos desafios. 💪💪💪
 
-🇧🇷 Alagoas, Palmeira dos Índios, Brasil 📌 
+Palmeira dos Índios, Alagoas, Brasil 🇧🇷 📌 
 
 ### Redes Sociais 🌎
 
