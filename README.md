@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Simplício Baiano
 
 Apaixonado por tecnologia e inovação, acredito que linhas de código pode gerar valor e melhorar a vida de muitas pessoas. 
