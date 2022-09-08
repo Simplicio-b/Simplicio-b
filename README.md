@@ -3,13 +3,18 @@
 Apaixonado por tecnologia e inovação, acredito que linhas de código podem gerar valor, melhorar a vida das pessoas e contribuir muito para o desenvolvimento da sociedade. 
 
 ##### JS
+##### TS
 ##### React
 ##### React-Native
 ##### Node
+##### Serverless
+##### Java
+##### Spring boot
 ##### Firebase
 ##### SQL
 
-##### Aprendendo Kotlin 
+
+##### Aprendendo Inglês
 
 Vivendo em um loop onde busco sempre aprimorar minhas habilidades e encarar novos desafios. 💪💪💪
 
